@@ -8,24 +8,13 @@ This repository contains the data analysis  project on Netflix Tv shows and movi
 the project aims to gain insights into the content available on Netflix , its Distribution and other intresting patterns.
 
 
-## Netflix Data Analysis with Tableau
-
-## PROJECT NAME: 
-
-Netflix Data Analysis Using Tableau 
-
-
 ## TECHNOLOGIES USED:
 
-    •	Advance Excel
+    •	SQL
 
     •   Python 
 
-    •   Jupyter Notebook
-
     •	Tableau
-
-    •	Statistics
 
 
 
@@ -57,11 +46,5 @@ Netflix Data Analysis Using Tableau
 ## Dataset
 The dataset used for this analysis is available within the GitHub repository. You can find it in the "data" folder. The dataset includes information about TV shows and movies available on Netflix, including their titles, genres, release dates, directors, cast, ratings, and more. The dataset was carefully curated and prepared for analysis.
 
-## How to Use the Tableau Dashboard
-
-Clone or download this Github Respostitory to your local machine.
-Navigate to the "Netflix_data_analysis_with_Tableau" folder.
-Open the "Netflix_Data_Analysis.twbx" Tableau workbook file using Tableau Desktop or Tableau Reader.
-Interact with the various visualizations and filters to explore the Netflix data insights.
 
 
