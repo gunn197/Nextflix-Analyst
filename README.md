@@ -10,11 +10,11 @@ the project aims to gain insights into the content available on Netflix , its Di
 
 ## TECHNOLOGIES USED:
 
-    •	SQL
+    •SQL
 
-    •   Python 
+    •Python 
 
-    •	Tableau
+    •Tableau
 
 
 
